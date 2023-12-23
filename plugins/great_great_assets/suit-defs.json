@@ -1,0 +1,19 @@
+/*  LETHAL COMPANY MOD - ADDITIONAL SUITS
+
+    this file contains all custom suit definitions used for the additional suits mod
+    to add a new suit, simply add a new entry to this listing & add your texture image to the resources folder
+
+    entry breakdown:
+      - suitID: unique identifier used in-game to identify the item (doesn't do anything atm, but will be needed for shop unlocks)
+      - suitName: name that will be displayed when the player hovers over the suit in game
+      - suitTexture: name of the texture image that will be used to render the suit (include file extension)
+*/
+{
+  "unlockableSuits": [
+    {
+      "suitID": "Carlos_Suit",
+      "suitName": "Carlos",
+      "suitTexture": "Carlos.png"
+    }
+  ]
+}

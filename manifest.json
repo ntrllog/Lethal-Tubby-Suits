@@ -1,0 +1,9 @@
+{
+    "name": "TubbySuits",
+    "version_number": "1.0.1",
+    "website_url": "https://github.com/ntrllog/Lethal-Tubby-Suits",
+    "description": "This is a 99% copy of the AdditionalSuits mod (https://thunderstore.io/c/lethal-company/p/AlexCodesGames/AdditionalSuits/). This is just a convenient way for my friends to use our own custom suits without doing anything like file moving. 😏",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100"
+    ]
+}
